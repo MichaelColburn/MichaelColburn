@@ -7,7 +7,7 @@
   - Self-Learning & Continuous Improvement – Beyond formal training, I have always pursued independent research, experimentation, and technical problem-solving to deepen my understanding of new tools and methodologies.
   - Beta Testing & Python Scripting – Served as a beta tester for VFX pipeline tools, gaining hands-on experience in Python scripting for debugging, diagnosing issues, and improving software workflows.
 
-### This blend of technical expertise, problem-solving mindset, and commitment to continuous learning positions me well for an IT Service Desk role, where adaptability, troubleshooting, and user support are essential.
+### This blend of technical expertise, problem-solving mindset, and commitment to continuous learning positions me well for an various digital roles within cyber security, IT and visual effects; where adaptability, troubleshooting, and user support are essential.
 
 -  I’m currently learning AWS,Python,Ethical Hacking, OSINT, Autopsy
 -  I’m looking to collaborate on work that explores and develops skillset in both fields
