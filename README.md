@@ -7,7 +7,7 @@
   - Self-Learning & Continuous Improvement – Beyond formal training, I have always pursued independent research, experimentation, and technical problem-solving to deepen my understanding of new tools and methodologies.
   - Beta Testing & Python Scripting – Served as a beta tester for VFX pipeline tools, gaining hands-on experience in Python scripting for debugging, diagnosing issues, and improving software workflows.
 
-### This blend of technical expertise, problem-solving mindset, and commitment to continuous learning positions me well for various digital roles within cyber security, IT and visual effects; where adaptability, troubleshooting, and user support are essential.
+
 
 -  I am always learning a new tool, process or concept like AWS, Azure, Unreal, OSINT and so on.
 -  I’m looking to collaborate on work that explores and develops skillset in both fields
